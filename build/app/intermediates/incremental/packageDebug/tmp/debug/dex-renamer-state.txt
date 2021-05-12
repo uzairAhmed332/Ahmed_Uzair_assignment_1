@@ -1,0 +1,4 @@
+#Wed May 12 11:56:41 CEST 2021
+base.0=/Volumes/UzairVolume/Uzair/Flutter Projects/University/Ahmed_Uzair_assignment_1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
