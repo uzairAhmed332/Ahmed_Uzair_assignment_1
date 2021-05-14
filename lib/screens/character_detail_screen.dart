@@ -6,7 +6,7 @@ final Character character;
 
 const CharacterDetailScreen({
 Key? key,
-required this.character,
+required this.character ,
 }) : super(key: key);
 
 @override
